@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Jean Aguiluz
 
-<!--
-**jeanAguiluz/jeanAguiluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Full Stack Jr**, recién graduado de **4Geeks Academy**.  
+Construyo aplicaciones web con **React, Flask y SQL**, con foco en seguridad, rendimiento y buena experiencia de usuario.  
+Actualmente busco mi primera oportunidad como **Desarrollador Web Full Stack**.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+React · JavaScript · HTML/CSS · Python · Flask · SQL · SQLAlchemy · JWT · Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyecto destacado
+**Eventos DiverKids**  
+Plataforma full-stack con autenticación, reservas, eventos, panel admin CRUD e integraciones (SendGrid, Google Calendar, WhatsApp).  
+🔗 Repo: [link] · 🌐 Demo: [link]
+
+## 📫 Contacto
+jeanaguiluz@gmail.com · [LinkedIn](link) 
+· Santiago, Chile
